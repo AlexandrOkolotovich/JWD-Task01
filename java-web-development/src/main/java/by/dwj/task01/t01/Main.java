@@ -11,8 +11,6 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-
-
         System.out.println("Input number: ");
         System.out.print("x >> ");
         while (!sc.hasNextInt()) {
